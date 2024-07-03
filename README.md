@@ -29,6 +29,7 @@ This project focuses on analyzing microstructure data, which involves detailed e
 ## Data Provided
 The Excel file includes the following features:
 - **Microstructure Type**
+- **Microstructure Image**
 - **Cooling Rate**
 - **Deformation Temperature**
 - **Grain Size**
